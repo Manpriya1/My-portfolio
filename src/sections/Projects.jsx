@@ -8,7 +8,7 @@ const projectsData = [
     description:
       "Full-stack Movie Booking web-app using the MERN (MongoDB, Express, React, Node.js) stack.",
     tech: ["MongoDB", "Express", " React", "Node.js"],
-    demoLink: "https://your-portfolio-link.com",
+    demoLink: "https://github.com/Manpriya1/MOVIE-APP",
     githubLink: "https://github.com/Manpriya1/MOVIE-APP",
   },
   {
@@ -17,7 +17,7 @@ const projectsData = [
     description:
       "A worthwhile and responsive web application designed using HTML and CSS. PHP and MySQL are used as backend language and database respectively.",
     tech: ["Php", "MySQL", "HTML", "CSS"],
-    demoLink: "https://ecommerce-demo.com",
+    demoLink: "https://github.com/Manpriya1/Traveling",
     githubLink: "https://github.com/Manpriya1/Traveling",
   },
   {
@@ -26,7 +26,7 @@ const projectsData = [
     description:
       "Life Tracking Web Application Monitors Health and Wealth. The main aim of the app is to make lifestyle healthier by tracking Calorie intake, Water intake, Sleep Analysis, and Workout patterns..",
     tech: ["Angular.js", "Node.js", "JavaScript"],
-    demoLink: "https://blog-demo.com",
+    demoLink: "https://github.com/Manpriya1/LifeTracking",
     githubLink: "https://github.com/Manpriya1/LifeTracking",
   },
   {
@@ -35,7 +35,7 @@ const projectsData = [
     description:
       "A user-friendly website named Notes Making app designed where you can add important notes. Features like add and delete are proposed.",
     tech: ["HTML", "CSS", "JavaScript"],
-    demoLink: "https://weather-now.com",
+    demoLink: "https://github.com/Manpriya1/Note-App",
     githubLink: "https://github.com/Manpriya1/Note-App",
   },
   // {
