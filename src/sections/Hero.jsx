@@ -11,7 +11,7 @@ const Hero = () => {
           {/* Left: 3D Avatar */}
           <Col md={5} className="text-center mb-4 mb-md-0">
             <img
-              src="/images/hero-avatar.png"
+              src="/images/hero-avatar1.png"
               alt="Manpriya Avatar"
               className="hero-avatar"
             />
