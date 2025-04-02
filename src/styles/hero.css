@@ -1,0 +1,58 @@
+.hero-section {
+  /* padding: 100px 0; */
+  background-color: #0a0a0a;
+  color: #00FF41;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 80px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.hero-avatar {
+  width: 100%;
+  max-width: 350px;
+  border-radius: 50%;
+  box-shadow: 0 0 25px #00FF41, 0 0 50px #00FF41;
+}
+
+.highlight {
+  color: #00FF41;
+  text-shadow: 0 0 8px #00FF41;
+}
+
+button {
+  border: 2px solid #00FF41;
+  color: white;
+  background: transparent;
+  padding: 10px 20px;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  background: #00FF41;
+  color: black;
+  box-shadow: 0 0 20px #00FF41, 0 0 40px #00FF41;
+}
+
+.contact-button {
+  background-color: black;
+  color: white;
+  border: 2px solid #00ff00;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+
+  /* Green neon glow */
+  box-shadow: 0 0 12px #00ff00, 0 0 24px #00ff00, 0 0 36px #00ff00;
+}
+
+.contact-button:hover {
+  background-color: #00ff00;
+  color: black;
+  box-shadow: 0 0 20px #00ff00, 0 0 40px #00ff00;
+}
