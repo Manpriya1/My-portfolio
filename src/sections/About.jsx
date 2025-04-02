@@ -51,9 +51,9 @@ const About = () => {
         {/* Achievements Section */}
         <h3 className="glow-subtitle">Achievements</h3>
 <div className="certifications">
-  <img src="/src/assets/certifications/cert1.jpeg" alt="Certification 1" />
-  <img src="/src/assets/certifications/cert2.png" alt="Certification 2" />
-  <img src="/src/assets/certifications/cert3.jpeg" alt="Certification 3" />
+  <img src="/src/assets/certifications/cert10.jpeg" alt="Certification 1" />
+  <img src="/src/assets/certifications/cert20.png" alt="Certification 2" />
+  <img src="/src/assets/certifications/cert30.jpeg" alt="Certification 3" />
 </div>
 
       </div>

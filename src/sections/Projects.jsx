@@ -4,7 +4,7 @@ import "../styles/projects.css";
 const projectsData = [
   {
     title: "Movie App",
-    image: "src/assets/movie.png",
+    image: "src/assets/movies.png",
     description:
       "Full-stack Movie Booking web-app using the MERN (MongoDB, Express, React, Node.js) stack.",
     tech: ["MongoDB", "Express", " React", "Node.js"],
@@ -13,7 +13,7 @@ const projectsData = [
   },
   {
     title: "Travelling Website",
-    image: "src/assets/bg.jpg",
+    image: "src/assets/bg1.jpg",
     description:
       "A worthwhile and responsive web application designed using HTML and CSS. PHP and MySQL are used as backend language and database respectively.",
     tech: ["Php", "MySQL", "HTML", "CSS"],
@@ -22,7 +22,7 @@ const projectsData = [
   },
   {
     title: "Life Tracking App",
-    image: "src/assets/Tracking.png",
+    image: "src/assets/Tracking1.png",
     description:
       "Life Tracking Web Application Monitors Health and Wealth. The main aim of the app is to make lifestyle healthier by tracking Calorie intake, Water intake, Sleep Analysis, and Workout patterns..",
     tech: ["Angular.js", "Node.js", "JavaScript"],
@@ -31,7 +31,7 @@ const projectsData = [
   },
   {
     title: "Notes App",
-    image: "src/assets/notes.png",
+    image: "src/assets/notes1.png",
     description:
       "A user-friendly website named Notes Making app designed where you can add important notes. Features like add and delete are proposed.",
     tech: ["HTML", "CSS", "JavaScript"],
